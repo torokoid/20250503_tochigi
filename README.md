@@ -165,7 +165,7 @@ p.note { display: none; }
 <a href="20250503_011.JPG" target="_blank"><img src="20250503_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250503_012.JPG" target="_blank"><img src="20250503_012.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">フードコートでhtml編集の相談に乗ってます</span></h2>
+<h2><span class="yellow">フードコートでhtml編集の相談に乗ってます<br>相手は福島で合宿中のドリームかわち水泳チームのIT担当<br>このエリアで繋がるWi-Fi２系統のうち片方しか繋がりませんでした</span></h2>
 <a href="20250503_013.JPG" target="_blank"><img src="20250503_013.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">3日はいつもの河内図書館でHP作成</span></h2>
